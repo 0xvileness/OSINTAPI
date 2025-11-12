@@ -12,7 +12,7 @@ def mostrar_banner():
 {Fore.RED} ▪     ▐█ ▀. ██ •█▌▐█•██      ▐█ ▀█ ▐█ ▄███ 
 {Fore.RED}  ▄█▀▄ ▄▀▀▀█▄▐█·▐█▐▐▌ ▐█.▪    ▄█▀▀█  ██▀·▐█·
 {Fore.RED} ▐█▌.▐▌▐█▄▪▐█▐█▌██▐█▌ ▐█▌·    ▐█ ▪▐▌▐█▪·•▐█▌
-{Fore.Red}  ▀█▄▀▪ ▀▀▀▀ ▀▀▀▀▀ █▪ ▀▀▀      ▀  ▀ .▀   ▀▀▀
+{Fore.RED}  ▀█▄▀▪ ▀▀▀▀ ▀▀▀▀▀ █▪ ▀▀▀      ▀  ▀ .▀   ▀▀▀
 {Style.RESET_ALL}
 {Fore.WHITE}{Style.BRIGHT}== OSINT API =={Style.RESET_ALL}
 """
