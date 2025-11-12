@@ -22,4 +22,18 @@ Intuitive interface with interactive menu
 Formatted results for better readability
 
 
-git clone 
+
+
+Installation: 
+
+git clone https://github.com/0xvileness/OSINTAPI.git
+
+cd OSINTAPI
+
+pip3 install -r requirements.txt
+
+
+
+
+
+
