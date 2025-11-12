@@ -18,7 +18,7 @@ def mostrar_banner():
 """
     print(banner)
     spaces = 18
-    print(f"{' ' * spaces}{Fore.WHITE}{Style.BRIGHT}By: HackUnderway{Style.RESET_ALL}")
+    print(f"{' ' * spaces}{Fore.WHITE}{Style.BRIGHT}By: @OxyCrime{Style.RESET_ALL}")
 
 def consultar_api(tipo, valor):
     base_urls = {
